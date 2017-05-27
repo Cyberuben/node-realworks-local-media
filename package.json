@@ -1,0 +1,25 @@
+{
+  "name": "realworks-local-media",
+  "version": "0.0.2",
+  "description": "Store media for Realworks properties locally",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cyberuben/node-realworks-local-media.git"
+  },
+  "keywords": [
+    "realworks"
+  ],
+  "author": "Ruben Rutten <ruben@rubenrutten.nl>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Cyberuben/node-realworks-local-media/issues"
+  },
+  "homepage": "https://github.com/Cyberuben/node-realworks-local-media#readme",
+  "dependencies": {
+    "mkdirp": "^0.5.1"
+  }
+}
